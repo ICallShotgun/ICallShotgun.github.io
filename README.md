@@ -35,7 +35,7 @@ Figure 1: My current resume as of May 2019.
 
 For my adaptation, I decided to translate my resume into the language that an ATS parses to determine whether or not it is a syntactically and semantically equivalent representation of myself in the new medium. I submitted a PDF of my resume to a PDF to text converter (.txt files are what most models look at because they remove "unnecessary code") located here: https://pdftotext.com/. The output, as shown below, should indicate that this adaptation is more of a commentary than a transposition.  
 
-![Adaptation](/ATS_Text.png)
+![Adaptation](/ATS_Text.jpg)
 Figure 2: My resume after PDF to .txt conversion.
 
 Just as I forfeited the agency in how my resume adapted to the new medium, like anyone who submits to an ATS does, the bias of my expectation versus reality becomes the topic of discussion. Adam Hammond does well to describe this reaction as his Literature in a Digital Age explains, "…digital editions can give us new access to analog originals and provide new experiences of print-entombed texts, but they never do so neutrally. Every digital edition is a translation, and as with all translations, each stands in a unique relationship - often ambivalent - to its analog original." (Hammond, 76). It is also worth mentioning that this conversion is the first step in the ATS process as then it proceeds to assess the semantics of the terminology the applicant used on the basis of the recruiter database of words to look for. The presence of keywords, the absence of keywords, the frequency of their use, how often they appear as phrases: all of these can be used to add or detract from the candidate's final score. Depending on whether the candidate passes the numeric threshold for consideration then determines which bin your resume ends up. In my case, it was likely the trash bin.
@@ -66,7 +66,7 @@ Hopefully the reader has had time to consider their own resume as a text with re
 
 No matter how confident that one is in their creation of tests as a measure of specific objectives, it must be remembered that these can often result in unintended statistical correlations showcasing inherent biases present in their experimental process. Yaël Eisenstat, a former CIA officer trained in recognition of cognitive biases, talks specifically of a general corporate unpreparedness to adequately consider the ramifications of biased tests, "Companies such as Facebook—my former employer—Google, and Twitter have repeatedly come under attack for a variety of bias-laden algorithms…Humans cannot wholly avoid bias, as countless studies and publications have shown. Insisting otherwise is an intellectually dishonest and lazy response to a very real problem." (Eisenstat). As the reader considers more carefully as to how they might be discriminated against, it is also useful to consider how their actions in biased system creation might affect those around them as ability tests are not exclusive to algorithms. 
 
-![Hybrid Resume](/Hybrid.png)
+![Hybrid Resume](/Hybrid.jpg)
 
 (Figure 4: Hybrid resume format recommended by Jobscan as the preferred resume format by both algorithms and recruiters alike. Image source = https://www.jobscan.co/blog/wp-content/uploads/2017/11/hybrid-resume-template.jpg)
 
