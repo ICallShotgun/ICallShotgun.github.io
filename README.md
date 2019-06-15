@@ -102,11 +102,11 @@ Crotty, Jonathan. "Recent EEOC Actions Show Dangers of Using Personality Tests i
 
 Eisenstat, Yael. "The Real Reason Tech Struggles with Algorithmic Bias." Wired. February 12, 2019. https://www.wired.com/story/the-real-reason-tech-struggles-with-algorithmic-bias/. Accessed June 8, 2019.
 
-Hammond, A. (2016). * Literature in the Digital Age: An Introduction.* Cambridge: Cambridge University Press. doi:10.1017/CBO9781107323551. Page 76.
+Hammond, A. (2016). Literature in the Digital Age: An Introduction. Cambridge: Cambridge University Press. doi:10.1017/CBO9781107323551. Page 76.
 
 Knight, Will. "Biased Algorithms are Everywhere and No One Seems to Care." MIT Technology Review. July 12, 2017. https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/. Accessed June 8, 2019.
 
-O'Neil, Cathy. (2016). * Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy.* Crown Publishing Group, New York, NY, USA. Page 110.
+O'Neil, Cathy. (2016). Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown Publishing Group, New York, NY, USA. Page 110.
 
 # Images Sources:
 	1. Personal
